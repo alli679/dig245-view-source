@@ -1,2 +1,11 @@
 
 /* css */
+p {
+  color: green;
+  font-weight: normal;
+}
+
+li {
+  font-style: italic;
+  color: purple;
+}
